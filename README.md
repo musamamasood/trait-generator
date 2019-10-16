@@ -1,4 +1,4 @@
-# Laravel Trait Generator [![Build Status](https://travis-ci.com/musamamasood/trait-generator.svg?branch=master)](https://travis-ci.com/musamamasood/trait-generator)
+# Laravel Trait Generator [![Build Status](https://travis-ci.com/cedextech/trait-generator.svg?branch=master)](https://travis-ci.com/cedextech/trait-generator)
 Laravel Generator For Creating New Traits
 
 ## Installation
